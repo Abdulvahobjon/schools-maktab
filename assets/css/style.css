@@ -1396,3 +1396,18 @@ body {
   }
 
 }
+
+.logo{
+  font-size: 32px;
+  display: flex;
+  font-weight: 100;
+}
+
+.logo-span{
+  font-weight: 900;
+}
+
+.logo-span-1{
+  color: black;
+  font-weight: 800;
+}
