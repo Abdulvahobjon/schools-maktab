@@ -290,6 +290,8 @@ body {
 .grid-list {
   display: grid;
   gap: 30px;
+  justify-content: space-between;
+  display: flex;
 }
 
 .category-card,
