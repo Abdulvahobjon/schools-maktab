@@ -149,6 +149,7 @@ html {
   font-family: var(--ff-poppins);
   font-size: 10px;
   scroll-behavior: smooth;
+  background-color: white;
 }
 
 body {
@@ -291,7 +292,6 @@ body {
   display: grid;
   gap: 30px;
   justify-content: space-between;
-  display: flex;
 }
 
 .category-card,
